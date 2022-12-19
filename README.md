@@ -45,3 +45,5 @@ looked closer to real faces. The losses converge fairly quickly and stabilize at
 (plot on right).
 
 ![](https://github.com/chaimilee/Generation-and-Detection-of-Falsified-Scientific-Literature/blob/main/result_plot.png)
+
+Examples of the falsely generated articles can be found under the fake_articles folder.
