@@ -26,6 +26,12 @@ Libraries used:
 - random
 
 ## Results
+
+Grover detected 54.54% of the modified Bik papers correctly. It did not perform very well, this
+could be because the Grover models were trained for Neural fake news detection, which is a
+very different domain from scientific paper text. If we can train the model itself on academia
+paper data then the Grover discriminator could perform better.
+
 We ran into issues running DCGAN with the scientific figures, because there were
 multiple issues with the code. We opted for using the Kaggle celebrity images dataset instead
 with constraints of 5 epochs with 500 samples in each. The dataset size was decreased from
