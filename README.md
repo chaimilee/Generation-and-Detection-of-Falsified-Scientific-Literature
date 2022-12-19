@@ -43,3 +43,5 @@ the discriminator loss not quite converging with the generator loss even after o
 (plot on left). The fifth and final epoch generated 500 fake faces that were more accurate and
 looked closer to real faces. The losses converge fairly quickly and stabilize at similar values
 (plot on right).
+
+![](https://github.com/chaimilee/Generation-and-Detection-of-Falsified-Scientific-Literature/blob/main/result_plot.png)
